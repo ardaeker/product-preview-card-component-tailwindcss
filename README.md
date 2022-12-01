@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL here](https://your-solution-url.com)
+- Solution URL: [Solution URL here](https://www.frontendmentor.io/solutions/product-preview-card-component-with-tailwind-css-lightdark-theme-K47HaRFeay)
 - Live Site URL: [Live site URL here](https://ardaekerfrontendmentor-01.netlify.app/)
 
 ## My process
